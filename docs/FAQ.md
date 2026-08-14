@@ -1,0 +1,5 @@
+# FAQ
+
+## Why another utility?
+
+Because small focused tools beat big frameworks.
